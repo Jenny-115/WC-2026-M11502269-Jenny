@@ -5,7 +5,7 @@
 - Name:陳詹妮(CHEN,CHAN NI)
 - number:M11502269
 - Research Direction: 5G, O-RAN
-- My background:I am a first-year master's student in the Department of Electronic Engineering. Both my undergraduate research and my coursework were oriented toward communications, including Communication Systems, Signals and Systems, and Computer Networks.
+- My background:I am a first-year master's student in the Department of Electronic Computer Engineering. Both my undergraduate research and my coursework were oriented toward communications, including Communication Systems, Signals and Systems, and Computer Networks.
 - The reason why I want to take this course: I chose this course because my research focuses on 5G O-RAN. Although I already have a basic grasp of the subject, I hope to gain a more comprehensive and in-depth understanding of the field as a whole. The topics covered in this course will strengthen the research foundation I need both now and in the future, and help me build a complete conceptual picture of 5G/6G systems.
 
 ## :notebook_with_decorative_cover: Assignment
